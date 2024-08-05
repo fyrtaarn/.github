@@ -1,6 +1,6 @@
 # Fyrtårnprosjekt
 
-R package [fyrtaarn](https://fyrtaarn.github.io/fyr/) to assist working on dataset from NPR and KPR 
+R package [fyr](https://fyrtaarn.github.io/fyr/) to assist working on dataset from NPR and KPR 
 
 Info and update can be read here https://fyrtaarn.github.io/project/
 
