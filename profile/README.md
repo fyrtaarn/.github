@@ -4,4 +4,4 @@ R package [fyr](https://fyrtaarn.github.io/fyr/) to assist working on dataset fr
 
 Info and update can be read here https://fyrtaarn.github.io/project/
 
-Annual Report from 2022 is available [here](https://external.ink?to=https://www.helsedirektoratet.no/rapporter/personskadedata-2022/fyrtarnprosjektet) and 2023 [here](https://www.fhi.no/publ/2024/personskadedata-2023/)
+Annual Report from 2022 is available [here](https://www.helsedirektoratet.no/rapporter/personskadedata-2022) and 2023 [here](https://www.fhi.no/publ/2024/personskadedata-2023/)
